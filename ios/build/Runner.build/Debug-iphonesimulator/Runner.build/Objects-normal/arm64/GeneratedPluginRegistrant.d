@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/okorokhina/git/ltr_html_text_highlight/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/okorokhina/git/ltr_html_text_highlight/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/okorokhina/git/widgets/e1eedc30-759c-436d-ab63-9ceef8badd94/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

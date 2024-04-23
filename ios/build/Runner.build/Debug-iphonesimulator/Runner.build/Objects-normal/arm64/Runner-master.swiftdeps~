@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4595ecae64963c018e72290c204f2e139e355a0007d59f622ea53f772aba9e66"
+build_start_time: [1713857979, 355958938]
+build_end_time: [1713857979, 372094154]
+inputs:
+  "/Users/okorokhina/git/ltr_html_text_highlight/ios/Runner/AppDelegate.swift": !private [1660734924, 747625827]
